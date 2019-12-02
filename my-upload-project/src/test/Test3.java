@@ -1,7 +1,7 @@
 package test;
 
 /**
- * 控制台输出2.0 
+ * 控制台输出2.0
  */
 public class Test3 {
 	public static void main(String[] args) {
